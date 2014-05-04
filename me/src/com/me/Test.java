@@ -2,7 +2,6 @@ package com.me;
 
 public class Test {
 public static void main(String[] args) {
-	System.out.println("haode");
-
+	System.out.println("haode¶þ¶ñ¶þ¶ñ");
 }
 }
